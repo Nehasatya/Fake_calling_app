@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/drawable/bg_1_background.xml" value="8.0" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/drawable/bg_2_background.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/drawable/bg_3_background.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/drawable/bg_rectangle.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/drawable/edittext.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/drawable/rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/drawable/rotate_button.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/layout/activity_call.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/layout/activity_call_number.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/layout/activity_call_timer_setting.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/layout/call_activity.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/layout/call_number_activity.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/layout/display_contact_list.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/layout/setting_time.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/mipmap-anydpi-v26/bg_1.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/mipmap-anydpi-v26/bg_1_round.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/mipmap-anydpi-v26/bg_2.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/mipmap-anydpi-v26/bg_3_round.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/my_fake_caller_application/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2015625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
